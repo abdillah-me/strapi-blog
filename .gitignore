@@ -1,0 +1,24 @@
+# Environment variables
+.env
+
+# Node modules
+node_modules/
+
+# Build files
+build/
+
+# Cache and temporary files
+.cache/
+tmp/
+
+# Log files
+*.log
+
+# Uploaded files (if using local file storage)
+public/uploads/
+
+# System files
+.DS_Store
+.idea/
+.vscode/
+*.swp
